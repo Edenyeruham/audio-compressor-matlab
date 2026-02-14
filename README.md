@@ -6,6 +6,7 @@ A real-time audio compressor implemented in \*\*MATLAB App Designer\*\*, designe
 
 The application allows users to load audio samples, apply dynamic range compression, and visualize the processed signal in real time.
 
+<img src="Screenshot 2025-06-09 135834.png" width="600" style="border-radius: 100%;" />
 
 
 \## 🎛️ Features
