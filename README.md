@@ -73,14 +73,6 @@ The project focuses on:
 
 4\. Load an audio file and adjust compression parameters
 
-
-
-\## 📸 Screenshots
-
-\*(You can add screenshots of the GUI here)\*
-
-
-
 \## 🚀 Motivation
 
 This project was developed as part of an academic final project to combine \*\*audio signal processing\*\* with \*\*interactive software design\*\*, emphasizing clean structure, usability, and real-time behavior.
